@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{B791FACA-01B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{269DCFB3-E029-440F-811F-6FE94B3B75BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RocketSeatAuction.API", "src\RocketSeatAuction.API\RocketSeatAuction.API.csproj", "{7D20A7C1-DC84-4154-9F35-CACA71636E81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RocketSeatAuction.API", "src\RocketSeatAuction.API\RocketSeatAuction.API.csproj", "{7D20A7C1-DC84-4154-9F35-CACA71636E81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
